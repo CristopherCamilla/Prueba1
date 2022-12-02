@@ -146,7 +146,7 @@ public class VwPerro extends javax.swing.JInternalFrame {
        
     //  try {
           Perro p = new Perro();
-          boolean validar = true;
+      //    boolean validar = true;
           
          if (validaciones.validarNombre(nombre)){
              p.setNombre(nombre);         
